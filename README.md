@@ -11,5 +11,5 @@ The CSS styling ensures a responsive and visually appealing layout suitable for 
 
 This project is a great way to demonstrate skills in DOM manipulation, event handling, and user interface design, making it a valuable addition to any portfolio for showcasing web development capabilities.
 </p>
-<img src  = "">
+<img src  = "output.png">
 <img src  = "">
